@@ -1,0 +1,12 @@
+[project]
+name = "super_customizations"
+authors = [
+    { name = "SuperV", email = "user@example.com"}
+]
+description = "Customizations for SuperV project"
+requires-python = ">=3.10"
+version = "0.0.1"
+
+[build-system]
+requires = ["flit_core<4,>=3.4"]
+build-backend = "flit_core.buildapi"
